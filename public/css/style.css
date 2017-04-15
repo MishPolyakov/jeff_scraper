@@ -1,0 +1,163 @@
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    height: 100vh;
+    margin: 0;
+}
+
+.full-height {
+    /* height: 100vh; */
+}
+
+.flex-center {
+    /* align-items: center; */
+    /* display: flex; */
+    /* justify-content: center; */
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    /* text-align: center; */
+}
+
+.title {
+    font-size: 84px;
+}
+
+.links > a {
+    color: #636b6f;
+    padding: 0 25px;
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
+.one_step_block
+{
+
+}
+.one_step_block label
+{
+
+    display: inline-block;
+
+    /* float: left; */
+
+    /* position: relative; */
+
+    /* bottom: 12px; */
+
+    font-weight: normal;
+}
+.one_step_block input
+{
+
+}
+.one_step_block input[type="checkbox"]
+{
+
+    /* float: left; */
+
+    display: inline-block;
+
+    width: 16px;
+
+    height: 16px;
+}
+.one_step_block input[type="submit"]
+{
+
+}
+.one_step_block label[for="is_veteran"]
+{
+    position: relative;
+    bottom: 3px;
+}
+.inputs_by_checkboc label
+{
+    position: relative;
+    bottom: 3px;
+    font-weight: normal;
+}
+.one_step_block input[type="text"]
+{
+
+}
+.one_step_block select
+{
+
+}
+.one_step_block b
+{
+
+}
+.one_step_block h2
+{
+
+    margin-bottom: 50px;
+}
+div#static_block {
+    display: inline-block;
+    width: 100%;
+
+}
+.one_step_block form {
+    display: inline-block;
+    width: 100%;
+}
+.one_step_block .form-group
+{
+    margin: 5px 0 0;
+}
+#confirm_alert
+{
+    float: right;
+}
+input#downpayment {
+    width: 80%;
+    float: left;
+}
+
+input#downpayment_percent {
+    width: 20%;
+}
+.block_1
+{
+
+}
+.block_2
+{
+
+    border-right: 1px solid #ccc;
+
+    border-left: 1px solid #ccc;
+}
+.block_3
+{
+
+}
+.midd_block
+{
+    margin: 0 auto;
+    float: none !important;
+}
+.col-block
+{
+    margin-top: 150px;
+}
